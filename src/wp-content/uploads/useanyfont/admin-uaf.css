@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'amerika';
+					src: url('http://localhost/soyanshop/wp-content/uploads/useanyfont/7394amerika.woff2') format('woff2'),
+						url('http://localhost/soyanshop/wp-content/uploads/useanyfont/7394amerika.woff') format('woff');
+						font-weight: 400; font-style: normal; font-display: auto;
+				}
+
+				.amerika{font-family: 'amerika' !important;}
+
+				.et_gf_amerika{background:none !important;font-family:amerika;text-indent:0 !important;font-size:25px;}
+
+		
